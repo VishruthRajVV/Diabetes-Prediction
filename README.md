@@ -36,13 +36,11 @@ The datasets consists of several medical predictor variables and one target vari
 
 3. There are integer and float data type variables in this dataset. Create a count (frequency) plot describing the data types and the count of variables. 
 
-# Data Exploration:
+4. Check the balance of the data by plotting the count of outcomes by their value. Describe your findings and plan future course of action.
 
-1. Check the balance of the data by plotting the count of outcomes by their value. Describe your findings and plan future course of action.
+5. Create scatter charts between the pair of variables to understand the relationships. Describe your findings.
 
-2. Create scatter charts between the pair of variables to understand the relationships. Describe your findings.
-
-3. Perform correlation analysis. Visually explore it using a heat map.
+6. Perform correlation analysis. Visually explore it using a heat map.
 
 # Data Modeling:
 
@@ -50,9 +48,7 @@ The datasets consists of several medical predictor variables and one target vari
 
 2. Apply an appropriate classification algorithm to build a model. Compare various models with the results from KNN algorithm.
 
-# Data Modeling:
-
-1. Create a classification report by analyzing sensitivity, specificity, AUC (ROC curve), etc. Please be descriptive to explain what values of these parameter you have used.
+3. Create a classification report by analyzing sensitivity, specificity, AUC (ROC curve), etc. Please be descriptive to explain what values of these parameter you have used.
 
 # Data Reporting:
 
